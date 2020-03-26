@@ -5,3 +5,14 @@
   margin: 0;
   padding: 0;
 }
+
+.container {
+  font-family: "Nanum Brush Script", cursive;
+  background: #87cefa url("img/josefin-e686hqKXQsk-unsplash.jpg") no-repeat
+    center center/cover;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  height: 100vh;
+}
